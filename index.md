@@ -5,6 +5,7 @@ tags = ["lifestyle","anxiety"]
 images = ["images/feature-image.png"]
 date = "2024-07-13"
 categories = ["reflection"]
+series = ["letting go"]
 +++
 
 
