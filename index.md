@@ -1,28 +1,45 @@
-+++
-title =  "Video Games"
-author = "Justin Napolitano"
-tags = ["lifestyle","anxiety"]
-images = ["images/feature-image.png"]
-date = "2024-07-13"
-categories = ["reflection"]
-series = ["letting go"]
-+++
+---
+slug: "github-video-games"
+title: "video-games"
+repo: "justin-napolitano/video-games"
+githubUrl: "https://github.com/justin-napolitano/video-games"
+generatedAt: "2025-11-23T09:49:37.058945Z"
+source: "github-auto"
+---
 
 
-# Video Games
+# Video Games Repository: Technical and Practical Overview
 
-I am letting go of video games.
+## Motivation
 
-## Binge
+This project serves as a personal reflective document rather than a traditional software application. The motivation is to externalize thoughts and feelings about video game usage, specifically addressing patterns of binge playing, feelings of loneliness, and the use of gaming as a distraction.
 
-I binge two games annually.. Crusader Kings (whatver iteration is latest) and Europa Universalis 4. I find maybe twice a year where I play one or the other until I burn out.. Typically about 30 hours.. 
+## Problem Statement
 
-This year I have also played about half of fallout 3 and equally as much of fallout 4.  
+While not a software problem, the document addresses a behavioral and emotional issue: the cyclical nature of gaming as both a source of enjoyment and a mechanism for avoiding other activities or emotions. This reflection can provide insight into how personal habits affect productivity and mental state.
 
-## Lonliness
+## Implementation Details
 
-Playing games makes me feel horribly lonely. I mean terribly lonely.. So I play more to distract myself from how lonely I feel. 
+The repository consists of a single Markdown file (`index.md`) with front matter metadata in TOML format. This metadata includes:
 
-## Distraction
+- Title, author, and date
+- Tags and categories for thematic classification
+- An image reference, suggesting potential use in a static site generator
 
-I play games to distrct myself from things that I want to actually do.  I wanted to program tonigt.. but I told myself I had done enough.. I should have just programmed.
+The content is structured with Markdown headers and paragraphs, detailing the author's experiences with specific games (Crusader Kings, Europa Universalis 4, Fallout 3, Fallout 4) and the emotional impact of gaming.
+
+## Technical Considerations
+
+- The use of TOML front matter indicates compatibility with static site generators like Hugo, which may be used for publishing.
+- No programming language or build tools are involved, indicating the repository is primarily for content storage.
+- The repository structure is minimalistic, containing only one Markdown file.
+
+## Practical Notes
+
+- The repository functions as a personal journal or blog entry.
+- It can be extended by adding more Markdown files or converting into a full static site.
+- No dependencies or installation steps are necessary beyond a Markdown viewer.
+
+## Summary
+
+This project is a straightforward content repository capturing a personal reflection on video gaming habits. It is implemented using Markdown with metadata for potential static site integration. The repository is intended as a reference point for the author to revisit their thoughts on gaming and its effects on their life and productivity.
