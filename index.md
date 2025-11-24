@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - static site generator
   - personal reflection
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is primarily a personal reflection on video gaming habits and emotional impacts, stored
+  as a markdown journal with metadata. While it has some technical notes about markdown and static
+  site integration, the core content matches the 'personal' family's focus on personal journals and
+  reflections about habits and lifestyle.
 ---
 
 # Video Games Repository: Technical and Practical Overview
@@ -57,4 +64,5 @@ The content is structured with Markdown headers and paragraphs, detailing the au
 ## Summary
 
 This project is a straightforward content repository capturing a personal reflection on video gaming habits. It is implemented using Markdown with metadata for potential static site integration. The repository is intended as a reference point for the author to revisit their thoughts on gaming and its effects on their life and productivity.
+
 
