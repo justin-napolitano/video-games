@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/video-games
 generatedAt: '2025-11-24T21:36:46.032Z'
 source: github-auto
 summary: >-
-  Explore a personal narrative on video game habits, emotional impacts, and
-  future plans for the project.
+  Explore a personal narrative on video game habits, emotional impacts, and future plans for the
+  project.
 tags:
   - markdown
   - personal reflection
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - future work roadmap
   - static content
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -72,5 +72,6 @@ video-games/
 ---
 
 ---
+
 
 
