@@ -1,32 +1,42 @@
 ---
 slug: github-video-games
-title: Personal Reflection on Video Gaming Habits in Markdown Repository
+title: Technical Overview of a Personal Video Games Repository
 repo: justin-napolitano/video-games
 githubUrl: https://github.com/justin-napolitano/video-games
 generatedAt: '2025-11-23T09:49:37.058945Z'
 source: github-auto
 summary: >-
-  Markdown-based repository capturing personal reflections on video game use, emotional impact, and
-  static site integration considerations.
+  Explore the structure and insights of a personal video games repository
+  focused on gaming habits and emotional reflections.
 tags:
   - markdown
   - personal-journal
   - video-games
   - static-site-generator
   - content-repository
-seoPrimaryKeyword: video game habits
+  - TOML
+  - static site generators
+  - Hugo
+  - personal journal
+  - content repository
+seoPrimaryKeyword: video games repository
 seoSecondaryKeywords:
-  - markdown repository
-  - static site generator
-  - personal reflection
+  - gaming habits reflection
+  - Markdown file structure
+  - TOML metadata
+  - static site integration
+  - personal gaming insights
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post is primarily a personal reflection on video gaming habits and emotional impacts, stored
-  as a markdown journal with metadata. While it has some technical notes about markdown and static
-  site integration, the core content matches the 'personal' family's focus on personal journals and
+  The post is primarily a personal reflection on video gaming habits and
+  emotional impacts, stored as a markdown journal with metadata. While it has
+  some technical notes about markdown and static site integration, the core
+  content matches the 'personal' family's focus on personal journals and
   reflections about habits and lifestyle.
+kind: project
+id: github-video-games
 ---
 
 # Video Games Repository: Technical and Practical Overview
