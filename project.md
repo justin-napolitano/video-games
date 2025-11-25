@@ -1,19 +1,28 @@
 ---
 slug: github-video-games
 id: github-video-games
-title: Video Games
+title: Personal Reflection on Video Games by Justin Napolitano
 repo: justin-napolitano/video-games
 githubUrl: https://github.com/justin-napolitano/video-games
 generatedAt: '2025-11-24T21:36:46.032Z'
 source: github-auto
 summary: >-
-  This repository contains a personal reflection titled "Video Games" by Justin
-  Napolitano. It explores the author's relationship with video games, focusing
-  on themes such as binge playing, loneliness, and distraction.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a personal narrative on video game habits, emotional impacts, and
+  future plans for the project.
+tags:
+  - markdown
+  - personal reflection
+  - video games
+  - static site
+  - content formatting
+seoPrimaryKeyword: video game personal reflection
+seoSecondaryKeywords:
+  - gaming habits
+  - emotional effects of gaming
+  - markdown project
+  - future work roadmap
+  - static content
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
